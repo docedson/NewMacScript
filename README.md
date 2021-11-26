@@ -13,10 +13,8 @@ Please feel free to alter this script to meet your specific needs, or correct an
 To install this script from a brand new Mac (fresh out of the box!) run the following command in terminal:
 
 ``` shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/docedson/master/setup.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/docedson/NewMacScript/main/setup.sh)"
 ```
-
-**Want to know what ```curl -fsSL``` stands for? Checkout this [link](https://explainshell.com/explain?cmd=curl+-fsSL+example.org#).**
 
 All of the following are commands that you can enter directly into Terminal or let the script run for you.
 
@@ -62,26 +60,6 @@ Ruby
 
 ``` shell
 brew install ruby
-echo "Adding the brew ruby path to shell config..."
-echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >>~/.bash_profile
-```
-
-### Additional Applications
-
-All of the following are commands that you can enter directly into Terminal or let the script run for you.
-
-Install the following applications:
-
-[Visual Studio Code](https://code.visualstudio.com/)
-
-``` shell
-brew cask install --appdir="/Applications" visual-studio-code
-```
-
-[Firefox](https://www.mozilla.org/en-US/firefox/new/)
-
-``` shell
-brew cask install --appdir="/Applications" firefox
 ```
 
 #### Enable Any Oh My Zsh Plugins
