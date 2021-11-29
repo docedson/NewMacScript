@@ -16,8 +16,6 @@ To install this script from a brand new Mac (fresh out of the box!) run the foll
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/docedson/NewMacScript/main/setup.sh)"
 ```
 
-All of the following are commands that you can enter directly into Terminal or let the script run for you.
-
 ### Terminal Tools
 
 All of the following are commands that you can enter directly into Terminal or let the script run for you.
