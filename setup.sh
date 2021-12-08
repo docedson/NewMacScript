@@ -1,5 +1,7 @@
 # Apps and other items that should install automatically for you
 
+#!/usr/bin/env bash
+
 # Initial install of some x-code items
 echo "Installing xcode items"
 xcode-select --install
@@ -72,6 +74,12 @@ brew upgrade
 # Install iTerm2
 echo "Installing iTerm2..."
 brew cask install iterm2
+
+# Install VSCode
+echo "Installing VSCode..."
+curl -fsSL https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal &&
+unzip VSCode-darwin-universal.zip
+echo "VSCode installed successfully"
 
 # Development tool casks
 brew cask install --appdir="/Applications" visual-studio-code

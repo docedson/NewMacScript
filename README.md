@@ -88,6 +88,6 @@ open ~/.zshrc
 
 Modify the theme. You can find a list of the themes [here](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes.)
 
-Make sure to save and close the file after editing. You may have quit and reopen iTerm2 for the theme to take effect.
+Make sure to save and close the file after editing. You may have to quit and reopen iTerm2 for the theme to take effect.
 
 ### The End
