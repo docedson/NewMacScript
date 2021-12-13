@@ -18,3 +18,4 @@ indent_size = 4
 
 [*.{rb,py}]
 indent_size = 2
+
