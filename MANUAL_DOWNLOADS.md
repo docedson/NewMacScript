@@ -12,7 +12,7 @@ The following applications should be downloaded manually, and then installed:
 * [ProjectLibre][projectlibre]: Project management software
 * [RStudio][rstudio]: IDE for R development
 
-The following applications are installed from the Linux install script:
+<!-- The following applications are installed from the Linux install script:
 
 * [Free42][free42]: HP-42S RPN Scientific Calculator simulator
   * [download link](https://thomasokken.com/free42/download/Free42Linux.tgz)
@@ -20,7 +20,7 @@ The following applications are installed from the Linux install script:
 * [Google Chrome][chrome]: Web browser
 * [Postman][postman]: API platform for building and using APIs
   * [download link](https://dl.pstmn.io/download/latest/linux64)
-* [Raspberry Pi Imager][rpi-imager]: SD card writer for Raspberry Pi
+* [Raspberry Pi Imager][rpi-imager]: SD card writer for Raspberry Pi -->
 
 The following applications can be installed either natively or via flatpaks:
 
